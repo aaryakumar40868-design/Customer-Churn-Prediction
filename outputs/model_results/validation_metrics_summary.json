@@ -1,0 +1,76 @@
+{
+    "best_model": "Logistic Regression",
+    "models_evaluated": 7,
+    "results": [
+        {
+            "accuracy": 0.7396,
+            "precision": 0.5055,
+            "recall": 0.8179,
+            "f1": 0.6248,
+            "roc_auc": 0.8484,
+            "pr_auc": 0.6315,
+            "training_time_sec": 0.046,
+            "model_name": "Logistic Regression"
+        },
+        {
+            "accuracy": 0.7794,
+            "precision": 0.571,
+            "recall": 0.675,
+            "f1": 0.6187,
+            "roc_auc": 0.8433,
+            "pr_auc": 0.6147,
+            "training_time_sec": 0.436,
+            "model_name": "Multi-Layer Perceptron (ANN)"
+        },
+        {
+            "accuracy": 0.7869,
+            "precision": 0.6871,
+            "recall": 0.3607,
+            "f1": 0.4731,
+            "roc_auc": 0.8432,
+            "pr_auc": 0.6223,
+            "training_time_sec": 0.575,
+            "model_name": "AdaBoost"
+        },
+        {
+            "accuracy": 0.786,
+            "precision": 0.6063,
+            "recall": 0.55,
+            "f1": 0.5768,
+            "roc_auc": 0.8422,
+            "pr_auc": 0.6259,
+            "training_time_sec": 2.095,
+            "model_name": "Gradient Boosting"
+        },
+        {
+            "accuracy": 0.7737,
+            "precision": 0.5565,
+            "recall": 0.7214,
+            "f1": 0.6283,
+            "roc_auc": 0.8412,
+            "pr_auc": 0.6215,
+            "training_time_sec": 0.457,
+            "model_name": "Random Forest"
+        },
+        {
+            "accuracy": 0.7443,
+            "precision": 0.512,
+            "recall": 0.7607,
+            "f1": 0.6121,
+            "roc_auc": 0.834,
+            "pr_auc": 0.6216,
+            "training_time_sec": 1.954,
+            "model_name": "HistGradientBoosting"
+        },
+        {
+            "accuracy": 0.7405,
+            "precision": 0.5068,
+            "recall": 0.8036,
+            "f1": 0.6215,
+            "roc_auc": 0.8291,
+            "pr_auc": 0.5811,
+            "training_time_sec": 4.015,
+            "model_name": "Support Vector Machine"
+        }
+    ]
+}

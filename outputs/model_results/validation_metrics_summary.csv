@@ -1,0 +1,8 @@
+accuracy,precision,recall,f1,roc_auc,pr_auc,training_time_sec,model_name
+0.7396,0.5055,0.8179,0.6248,0.8484,0.6315,0.046,Logistic Regression
+0.7794,0.571,0.675,0.6187,0.8433,0.6147,0.436,Multi-Layer Perceptron (ANN)
+0.7869,0.6871,0.3607,0.4731,0.8432,0.6223,0.575,AdaBoost
+0.786,0.6063,0.55,0.5768,0.8422,0.6259,2.095,Gradient Boosting
+0.7737,0.5565,0.7214,0.6283,0.8412,0.6215,0.457,Random Forest
+0.7443,0.512,0.7607,0.6121,0.834,0.6216,1.954,HistGradientBoosting
+0.7405,0.5068,0.8036,0.6215,0.8291,0.5811,4.015,Support Vector Machine
